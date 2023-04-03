@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <h2 align="left">💻 Github stats</h2>
+
 [![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwineas&layout=compact&theme=github_dark)](https://github.com/edwineas/github-readme-stats)
 
 </p>

@@ -3,7 +3,6 @@
 <p align="center">I am currently focused on enhancing my frontend skills. In addition, I enjoy problem-solving, critical thinking, and developing logical solutions. My goal is to become a full-stack developer, leveraging my skills and expertise to contribute to the tech community. I am committed to expanding my involvement in the industry by participating in various community events and initiatives, and pursuing opportunities that enable me to continuously learn and grow.<p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=edwineas&theme=dark)](https://git.io/streak-stats) 
-[![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwineas&layout=compact&theme=github_dark)](https://github.com/edwineas/github-readme-stats)
 
 
 - 🚀 I’m currently working on **Web Designing**
@@ -27,5 +26,8 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
+
+[![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwineas&layout=compact&theme=github_dark)](https://github.com/edwineas/github-readme-stats)
+
 </p>
 

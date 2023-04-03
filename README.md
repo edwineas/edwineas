@@ -31,5 +31,8 @@
 
 [![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwineas&layout=compact&theme=github_dark)](https://github.com/edwineas/github-readme-stats)
 
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=edwineas"/></p>
+
 </p>
 

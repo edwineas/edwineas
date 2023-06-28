@@ -17,7 +17,7 @@
 
 <h2 align="left">👨‍💻 My Skills:</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/Typing%20(50WPM)-blue?style=for-the-badge&logo=Speedtest&color=404040"/>
+<img src="https://img.shields.io/badge/Typing%20(70WPM)-blue?style=for-the-badge&logo=Speedtest&color=404040"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>

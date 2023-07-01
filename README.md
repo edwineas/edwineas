@@ -5,6 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=edwineas&theme=dark)](https://git.io/streak-stats) 
 
 
+- 🪞 My Personal webpage **https://edwineas.github.io/personal-site/**
 - 🚀 I’m currently working on **Web Designing**
 - 📫 Reach me through **edwinalexshaji@gmail.com**
 

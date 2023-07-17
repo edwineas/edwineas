@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="banner" src="banner.png"></p>
+<img alt="banner" src="bannerwhite.gif"></p>
 <p align="center">I am currently focused on enhancing my frontend skills. In addition, I enjoy problem-solving, critical thinking, and developing logical solutions. My goal is to become a full-stack developer, leveraging my skills and expertise to contribute to the tech community. I am committed to expanding my involvement in the industry by participating in various community events and initiatives, and pursuing opportunities that enable me to continuously learn and grow.<p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=edwineas&theme=dark)](https://git.io/streak-stats) 

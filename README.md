@@ -1,39 +1,21 @@
-<p align="center">
-<img alt="banner" src="bannerwhite.gif"></p>
-<p align="center">I am currently focused on enhancing my frontend skills. In addition, I enjoy problem-solving, critical thinking, and developing logical solutions. My goal is to become a full-stack developer, leveraging my skills and expertise to contribute to the tech community. I am committed to expanding my involvement in the industry by participating in various community events and initiatives, and pursuing opportunities that enable me to continuously learn and grow.<p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=edwineas&theme=dark)](https://git.io/streak-stats) 
-
-
-- 🪞 My Personal webpage **https://edwineas.github.io/personal-site/**
-- 🚀 I’m currently working on **Web Designing**
-- 📫 Reach me through **edwinalexshaji@gmail.com**
-
-<h2 align="left">🌏 Connect with me:</h2>
-
-- [LinkedIn](https://www.linkedin.com/in/edwinalexshaji/)
-- [Twitter](https://twitter.com/edwinalexshaji)
-- [Instagram](https://www.instagram.com/z4_edwin_alex/)
-
-
-<h2 align="left">👨‍💻 My Skills:</h2>
-<p align="left">
-<img src="https://img.shields.io/badge/Typing%20(70WPM)-blue?style=for-the-badge&logo=Speedtest&color=404040"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<h2 align="left">💻 Github stats</h2>
-
-[![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwineas&layout=compact&theme=github_dark)](https://github.com/edwineas/github-readme-stats)
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=edwineas"/></p>
-
-</p>
-
+<div align="center">
+  <img alt="banner" src="bannerwhite.gif">
+  <h1>Hai, I am <a href="https://edwineas.github.io/personal-site/" target="_blank">Edwin</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1><br>
+  <h2>About me 👨‍💻</h2>
+  <p>
+    🎯 My goal is to become a Full-Stack Developer<br>
+    🌐 I'm committed to contributing to the tech community<br>
+    🎓 I'm continuously improving my skills and knowledge<br>
+    🚀 I'm always seeking new opportunities to challenge myself<br>
+    🤝 I'm open to collaborating with like-minded individuals and teams<br>
+  </p><br>
+  <h2>Connect with me 🙋‍♂️</h2>
+  <a href="https://twitter.com/edwinalexshaji" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/edwinalexshaji/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:edwinalexshaji@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <br><br>
+  <h2>Languages and Tools</h2>
+   <img src="https://skillicons.dev/icons?i=javascript,java,c,html,css,bootstrap,git,github" /><br><br>
+  <img src="https://skillicons.dev/icons?i=markdown,figma,latex,vscode" />
+</div>

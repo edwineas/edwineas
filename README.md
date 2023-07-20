@@ -18,4 +18,11 @@
   <h2>Languages and Tools</h2>
    <img src="https://skillicons.dev/icons?i=javascript,java,c,html,css,bootstrap,git,github" /><br><br>
   <img src="https://skillicons.dev/icons?i=markdown,figma,latex,vscode" />
+  <br><br>
+  <h2>Coding Profiles 💻</h2>
+  <a href="https://www.hackerrank.com/edwinalexshaji"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@edwinalexshaji"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="https://leetcode.com/edwinalexshaji/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/edwinalex"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+
 </div>

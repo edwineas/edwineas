@@ -17,7 +17,9 @@
   <a href="mailto:edwinalexshaji@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <br><br>
   <h2>Languages and Tools</h2>
-   <img src="https://skillicons.dev/icons?i=javascript,java,c,html,css,bootstrap,git,github" /><br><br>
+  <img src="https://skillicons.dev/icons?i=javascript,java,c" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github" /><br><br>
   <img src="https://skillicons.dev/icons?i=markdown,figma,latex,vscode" />
   <br><br>
   <h2>Coding Profiles 💻</h2>

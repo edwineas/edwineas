@@ -2,7 +2,6 @@
   <img alt="banner" src="bannerwhite.gif">
   <h1>Hai, I am <a href="https://edwineas.github.io/personal-site/" target="_blank">Edwin</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1><br>
-  <img src="https://mulearn.org/embed/rank/edwinalexshaji@mulearn" height="400px"></img><br>
   <h2>About me 👨‍💻</h2>
   <p>
     🎯 My goal is to become a Full-Stack Developer<br>

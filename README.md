@@ -28,7 +28,7 @@
   <a href="https://www.codechef.com/users/edwinalex"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
   <br><br>
 <h2>Github Stats</h2>
-<img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=edwineas&theme=dark"/><br><br>
+<img width="495px" src="https://streak-stats.demolab.com?user=edwineas&theme=dark"/><br><br>
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=edwineas&show_icons=true&count_private=true&theme=dark" /><br><br>
 <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=edwineas&theme=react-dark"/>
 </div>
